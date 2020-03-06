@@ -63,7 +63,7 @@ The review is time boxed. It starts at a given date and - more importantly - it 
 After finishing the API review there will be some change requests for the API.
 Most of them might be easy to fix/change and the API designer should do that immediately during and after the review. Other changes may need more effort and planning how to address them.   
 
-The next steps and the the conclusion how to proceed with the change requests is written down in the **conclusion** section of the GitHub repo `README.md`.
+The next steps and the conclusion how to proceed with the change requests is written down in the **conclusion** section of the GitHub repo `README.md`.
 The implementation can start after finishig the review.
 
 #### Learnings from the review and feedback to the style guide
